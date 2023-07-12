@@ -1,0 +1,10 @@
+
+.DS_Store
+
+.idea/misc.xml
+
+.idea/boffins-web-crawler.iml
+
+.idea/inspectionProfiles/
+
+*.xml
